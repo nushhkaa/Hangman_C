@@ -2,7 +2,7 @@
 # 🕹️ Hangman Game in C
 
 Welcome to the classic **Hangman** game implemented in the **C programming language**!  
-This project is a terminal-based word guessing game that combines fun with fundamental programming concepts such as file handling and data structures.
+This project was created as a mini-project for partial fulfillment of Computer Programming subject in May, 2024. It is a terminal-based word guessing game that combines fun with fundamental programming concepts such as file handling and data structures.
 
 ---
 
