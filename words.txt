@@ -1,0 +1,33 @@
+organ, part of an animal or plant that performs a specialized function.
+fluid, form of matter not having fixed shape
+joule, si unit of energy
+sound, waveform of longitudinal nature
+basic, any substance having ph more than 7
+force, strength or physical quantity required to do work 
+metal, electropositive elements
+laser, monochromatic beam of light
+motor, a machine giving or producing motion
+brain, It's the organ inside your skull
+music, Harmonious sounds
+flame, Burning fire.
+range, horizontal distance covered by projectile
+ratio, quantitative relation between two amounts
+pitch, linear distance between two screw threads 
+prime, number only divisible by itself and one
+pound, weight in FPS
+speed, rate of change of displacement
+power, rate of work done
+space, continuous unoccupied area of universe
+value, velu
+bragg, gave law of xray diffraction
+boyle, gave law of gas pressure and volume
+curie, pioneer in radiation physics
+euler, inverse of natural log
+fermi, 10^-15
+gauss, law of electrostatics
+gibbs, free energy 
+hooke, law governing spring mass system
+nobel, highest international honor or prize 
+tesla, car company owned by Musk 
+weber, unit of magnetic flux in SI
+young, modulus of elasticity 
