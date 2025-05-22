@@ -1,4 +1,4 @@
-# Handman Project using C Language
+# Hangman Project using C Language
 # 🕹️ Hangman Game in C
 
 Welcome to the classic **Hangman** game implemented in the **C programming language**!  
